@@ -1,0 +1,55 @@
+	--> Java Basics:
+
+	--> identifier 
+		--> name of variable, name of a class, name of a method, etc.
+
+		int value = 0; 
+		class Hello{
+			
+			void print()
+		}
+
+	Rules to provide identifier name:
+	1. identifier cannot start with a no.
+	2. identifier must start with a letter or $ or _
+	3. identifier can be of any length
+	4. identifier cannot use keywords for its naming
+	5. Case sensitive
+
+		int val = 10;
+		int Val = 90;
+		print(Val)		
+
+		int = 10;
+		int int = 90;		
+		
+		String user_name
+
+	abbcddffdfdfd = 43;
+
+	--> variables
+
+		--> container which is used to store a type and a data
+		long a = 43656565656
+		class Data
+		void input()
+
+	--> keywords
+		--> resereved have some predefined meaning --> final
+
+	--> constants
+		--> final int value = 43;
+			
+			value = 43;
+
+	--> datatypes
+		type of data
+		---> Primitive datatype (built-in type) --> c and c++
+
+			-->eg --> byte, short, char, long, float, int etc
+
+		---> Reference datatype --> type declare with class
+			--> Byte, Short, String, Integer, Float, Double, Long, etc
+
+
+	--> data store

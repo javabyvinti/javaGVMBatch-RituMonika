@@ -1,0 +1,44 @@
+
+
+	int value = 10;
+	int value2 = 0; //5433 (memory address)
+
+		cout<<value+value2; // garbage
+	// Garbage collector --> memory allocate --> free --> 
+
+
+	5433 --> 90
+	--> value
+
+
+	machine language (binary lang)
+	
+	 --> closely interact --> assembly language(mnemonics)	
+	
+	middle level lang
+	
+	--> c
+
+	--> c++
+
+	--> java
+
+	--> JSE / J2SE -->java standard edition --> desktop application --> 							core java + server							(sockets)
+
+	--> JEE / J2EE --> java enterprise edition --> server side app --> 							advance java
+
+	--> JME / J2ME --> java mobile edition --> Failed --> Not continue
+
+
+
+	--> .jar --> Java ARchieve(predefined code--> class and interface)
+
+
+
+	value int  = 90
+
+	byte --> 1 byte = 8 bits --> -128 to 127
+
+	2 power no. of bits
+
+	2 power 8 --> 2power 7 --> 128 --> 1 bit --> sign(+/-)
