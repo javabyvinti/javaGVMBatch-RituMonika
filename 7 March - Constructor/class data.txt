@@ -1,0 +1,70 @@
+// 4000 lines
+
+100 lines
+1 bug
+
+class UserRecords{
+
+	void createRecord(){
+	// 1000 lines of code
+	
+	}
+
+	void updateRecord(){
+	// 1000 lines of code
+	
+	}
+
+void ReadRecord(){
+	// 1000 lines of code
+	
+	}
+
+void deleteRecord(){
+	// 1000 lines of code
+	
+	}
+
+}
+
+class --> Singleton --> to handle the single functionality
+
+student
+
+name
+phn -> office number residental number
+father name
+current address
+permanent address
+pincode --> -434343
+
+----------------------------------------------------------
+
+String name;	// null
+
+Person obj = new Person();
+
+
+constructor: automatically called when an object is created. -->
+
+
+rules:
+--> constructor name must be same as class name
+--> constructor must not have any return type
+--> used to assign default value in the instance variable
+--> java automatically creates an empty constructor for every class.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
