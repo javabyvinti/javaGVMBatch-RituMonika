@@ -1,0 +1,35 @@
+class  :					object
+
+1. Logically Exist				1. Physically exist
+State and behaviour				 run time entity
+						real time representation of state and behaviour of class
+
+actor
+
+class ActorDemo{
+
+states and behaviour
+state --> instance variables
+behaviour --> methods
+
+int noOfAwards = 3;	firstwordCamelCase	-->
+int noOfMovies  = 89;	//state
+int noOfFlops = 5;
+int noOfAlbums = 0;
+
+
+void actingStyle(){
+}
+
+void annualIncome(){
+}
+}
+
+
+
+
+
+All classes are inheriting the properties of a predefined class which is Object class --> automatically
+
+	Object is a root of all the classes
+
