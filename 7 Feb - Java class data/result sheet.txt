@@ -1,0 +1,16 @@
+Result Sheet
+**************************************************************
+University: 		College : 
+
+Name: Ram Kumar		Rollno: 23 --> validation-> cannot be negative
+
+Subject			Marks
+
+1. English		  90 --> validation-> btwn 0-100 and not -ve
+2. Maths		  78
+3. Hindi		  90
+
+Percentage		 78%
+**************************************************************
+	
+
