@@ -1,0 +1,27 @@
+1D array questions:
+
+Q1) How to find the missing number in integer array of 1 to 100?
+
+Q2) How to find duplicate number on Integer array in Java?
+
+Q3) How to check if array contains a number in Java?
+
+Q4) How to find largest and smallest number in unsorted array?
+
+Q5) How to find all pairs on integer array whose sum is equal to given number?
+
+Q6) How to find repeated numbers in an array if it contains multiple duplicates?
+
+Q7) Write a program to remove duplicates from array in Java?
+
+Q8) WAP to find unique elements in an array and print them.
+
+Q9) Write a Java program to insert an element (specific position) into an array.
+
+Q10) Write a Java program to reverse an array of integer values.
+
+Q11) Write a Java program to find the common elements between two arrays (string values).
+
+Q12) Write a Java program to find the second largest and second smallest element in an array.
+
+
