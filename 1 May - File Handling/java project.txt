@@ -1,0 +1,45 @@
+
+Console:
+
+Welcome .
+Do you want to Register or Login?
+Press 1 for Register
+Press 2 for Login
+
+--> user input: 1(Registration)	
+
+User Name : String
+User Password : String --> min 6 characters
+User phn : long --> exact 10 digits
+
+if validation is successful:
+Save Details in a File
+
+if validation failed:
+Proper msg to be displayed on Screen
+
+--> user input: 2(Login)
+
+User Name:
+Password:	
+
+if user name and password is valid then welcome msg and further flow
+otherwise name or password is incorrect. Trg again
+
+
+Welcome In Test Engine
+
+Choose any one of the Subject:
+Press 1 for C
+Press 2 for C++
+Press 3 for Java
+
+--> user choose 1
+
+Display Question1 (Read from file)
+
+A. option1		B. option2 (Read from file)
+C. option3		D. option4
+
+user input --> ans is correct then show next question 
+	   --> ans is incorrect then stop the quiz and show the result
